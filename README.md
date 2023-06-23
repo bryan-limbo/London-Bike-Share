@@ -2,7 +2,7 @@
 
 An interactive dashboard analyzing the moving average of bike rides from Jan 2015 to 2017.
 
-Credits go to [Mo Chan](https://www.youtube.com/@datawithmo) for the dashboard design.
+Credits go to [Mo Chen](https://www.youtube.com/@datawithmo) for the dashboard design.
 
 ## Data
 
